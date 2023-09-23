@@ -23,7 +23,7 @@ body ul {
 /* header */
 
 .header-logo {
-  color: #2e2f42;
+  color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -33,7 +33,7 @@ body ul {
 }
 
 .accent {
-  color: #4d5ae5;
+  color: #2e2f42;
 }
 
 .header-menu {
@@ -116,10 +116,6 @@ body ul {
 /* section1 */
 
 /* section2 */
-
-.advantage {
-  display: none;
-}
 
 .benefit-title {
   color: #2e2f42;
@@ -215,7 +211,7 @@ body ul {
 }
 
 .footer-logo {
-  color: #f4f4fd;
+  color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -225,7 +221,7 @@ body ul {
 }
 
 .footer-accent {
-  color: #4d5ae5;
+  color: #f4f4fd;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
