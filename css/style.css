@@ -60,6 +60,10 @@ body ul {
   color: #404bbf;
 }
 
+.address-link {
+  font-style: normal;
+}
+
 .address-menu-link {
   color: #434455;
   font-family: "Roboto", sans-serif;
@@ -148,8 +152,8 @@ body ul {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
-  letter-spacing: 0.02em;
   text-transform: capitalize;
+  letter-spacing: 0.02em;
 }
 
 .team-list-item {
@@ -162,14 +166,14 @@ body ul {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.02em;
 }
 
 .team-text {
   color: #434455;
   text-align: center;
   line-height: 1.5;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.02em;
 }
 
 /* section3 */
@@ -215,9 +219,9 @@ body ul {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
+  line-height: 1.17;
 }
 
 .footer-accent {
